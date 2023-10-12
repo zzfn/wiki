@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/zzfn/wiki/blob/main',
   footer: {
-    text: 'wwma.cc',
+    text: '总有一天你会出现在我身边',
   },
 }
 

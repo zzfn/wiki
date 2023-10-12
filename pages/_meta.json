@@ -6,9 +6,9 @@
   "test": "测试技术",
   "backend": "后端技术",
   "performance": "性能优化",
-  "advanced": "实用技巧",
-  "about": {
-    "title": "About",
+  "tip": "实用技巧",
+  "web": {
+    "title": "实用网站",
     "type": "page"
   },
   "contact": {

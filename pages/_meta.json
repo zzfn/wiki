@@ -1,7 +1,12 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "快速入门",
+  "setup": "开发环境配置",
+  "common": "通用技能",
+  "frontend": "前端技术",
+  "test": "测试技术",
+  "backend": "后端技术",
+  "performance": "性能优化",
+  "advanced": "实用技巧",
   "about": {
     "title": "About",
     "type": "page"
